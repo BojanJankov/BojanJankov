@@ -5,4 +5,4 @@ HTML, CSS, JavaScript, TypeScript, React, Angular, Node.js, Express, NestJS, Mon
 
 ## About me
 Dedicated and passionate individual who is always ready to learn and master
-new things and skills as well as trying out new technologies and self-improvement. Always ready for new things in the world of technology
+new things and skills as well as trying out new technologies and self-improvement. Always ready for new things in the world of technology.
