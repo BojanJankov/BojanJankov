@@ -7,7 +7,7 @@ new things and skills as well as trying out new technologies and self-improvemen
 ## Tech stack
 HTML, CSS, SASS, JavaScript, TypeScript, React, Angular, Node.js, Express, NestJS, MongoDB, PostgreSQL, TypeORM, Bootstrap, Firebase
 
-##Contact
+## Contact
 Via email: jankovbojan4@gmail.com
 Via linkedin: https://www.linkedin.com/in/bojan-jankov-92aba1316/
 
